@@ -17,7 +17,7 @@ class UsersController {
       age: user[3],
     })
   }
-
+ 
   async create(req: Request, res: Response) {
     const { 
       name, 
