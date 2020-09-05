@@ -15,7 +15,6 @@ class UsersController {
       name: user[1],
       email: user[2],
       age: user[3],
-      password: user[4],
     })
   }
 
