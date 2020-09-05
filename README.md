@@ -32,11 +32,11 @@ sqlite - https://deno.land/x/sqlite/mod.ts
 
 # Comando para rodar projeto
 
-deno run --allow-net --allow-write --allow-read src/server.ts
+`deno run --allow-net --allow-write --allow-read src/server.ts`
 
 # Comando para criar tabela
 
-deno run --allow-read --allow-write src/database/migrations/01_createUser.ts
+`deno run --allow-read --allow-write src/database/migrations/01_createUser.ts`
 
 ## Autor
 
